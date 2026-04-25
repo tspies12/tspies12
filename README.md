@@ -4,8 +4,7 @@ Sales professional specializing in indirect auto finance.
 
 ---
 
-- Based in Montana
-- Building relationships with dealers and partners across the region
+- Building dealer relationships across a multi-state territory
 - Focused on results, efficiency, and getting deals done
 
 ---
