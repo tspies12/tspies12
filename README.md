@@ -10,4 +10,4 @@ Sales professional specializing in indirect auto finance.
 
 ---
 
-*This is a private workspace — nothing to see here publicly.*
+*This is a private workspace; nothing to see here publicly.*
